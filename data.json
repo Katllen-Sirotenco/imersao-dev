@@ -1,0 +1,394 @@
+[
+  {
+    "nome": "Técnica Pomodoro",
+    "descricao": "Método de gerenciamento de tempo que utiliza intervalos de trabalho focado de 25 minutos seguidos por curtas pausas.",
+    "data_criacao": "1980",
+    "link": "https://pt.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro",
+    "tags": [
+      "tempo",
+      "produtividade",
+      "foco",
+      "gestão",
+      "ciclos"
+    ]
+  },
+  {
+    "nome": "GTD (Getting Things Done)",
+    "descricao": "Metodologia de organização pessoal que foca em tirar as tarefas da mente e registrá-las em um sistema externo confiável.",
+    "data_criacao": "2001",
+    "link": "https://gettingthingsdone.com/",
+    "tags": [
+      "organização",
+      "tarefas",
+      "sistema",
+      "produtividade",
+      "fluxo"
+    ]
+  },
+  {
+    "nome": "Zettelkasten",
+    "descricao": "Sistema de tomada de notas e gestão de conhecimento que utiliza conexões entre ideias para facilitar a escrita e o pensamento criativo.",
+    "data_criacao": "1950",
+    "link": "https://zettelkasten.de/",
+    "tags": [
+      "estudos",
+      "anotações",
+      "conhecimento",
+      "escrita",
+      "links"
+    ]
+  },
+  {
+    "nome": "Matriz de Eisenhower",
+    "descricao": "Framework de priorização que ajuda a decidir e priorizar tarefas com base em sua urgência e importância.",
+    "data_criacao": "1954",
+    "link": "https://asana.com/pt/resources/eisenhower-matrix",
+    "tags": [
+      "priorização",
+      "decisão",
+      "gestão",
+      "estratégia",
+      "liderança"
+    ]
+  },
+  {
+    "nome": "Método Cornell",
+    "descricao": "Sistema de anotações estruturado para sintetizar e organizar informações de aulas ou leituras de forma eficiente.",
+    "data_criacao": "1940",
+    "link": "https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/",
+    "tags": [
+      "estudos",
+      "anotações",
+      "faculdade",
+      "resumo",
+      "síntese"
+    ]
+  },
+  {
+    "nome": "Repetição Espaçada",
+    "descricao": "Técnica de aprendizado baseada em revisar o conteúdo em intervalos de tempo crescentes para combater a curva do esquecimento e consolidar a memória de longo prazo.",
+    "data_criacao": "1885",
+    "link": "https://pt.wikipedia.org/wiki/Repeti%C3%A7%C3%A3o_espa%C3%A7ada",
+    "tags": [
+      "memorização",
+      "revisão",
+      "estudos",
+      "flashcards",
+      "retenção"
+    ]
+  },
+  {
+    "nome": "Método Feynman",
+    "descricao": "Modelo mental que consiste em explicar um conceito complexo em termos simples (como se fosse para uma criança) para identificar lacunas na própria compreensão.",
+    "data_criacao": "1940",
+    "link": "https://conexao.pucminas.br/blog/dicas/tecnica-feynman/",
+    "tags": [
+      "compreensão",
+      "ensino",
+      "simplificação",
+      "estudos",
+      "aprendizado"
+    ]
+  },
+  {
+    "nome": "Deep Work",
+    "descricao": "Focar em tarefas cognitivamente exigentes em um estado de concentração livre de distrações, maximizando a produção de alta qualidade.",
+    "data_criacao": "2016",
+    "link": "https://www.alura.com.br/empresas/artigos/deep-work?utm_term=&utm_campaign=&utm_source=google&utm_medium=cpc&campaign_id=23137788902__&utm_id=23137788902__&hsa_acc=7964138385&hsa_cam=&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gad_campaignid=23132128725&gbraid=0AAAAADpqZIDV37t7GNYCqPW-wbUOF7kRe&gclid=CjwKCAiA_orJBhBNEiwABkdmjMKDiBgLKSnT0fCNH9896rgHg8Jn87kugb5Z5-zGP52gJ8T6a3uV4RoCQmQQAvD_BwE",
+    "tags": [
+      "foco",
+      "concentracao",
+      "alta_performance",
+      "cal_newport"
+    ]
+  },
+  {
+    "nome": "Time Blocking",
+    "descricao": "Agendar blocos específicos de tempo no calendário para tarefas específicas, tratando compromissos de trabalho como reuniões inadiáveis.",
+    "data_criacao": "1984",
+    "link": "https://en.wikipedia.org/wiki/Timeboxing",
+    "tags": [
+      "gestao_de_tempo",
+      "planejamento",
+      "calendario",
+      "produtividade"
+    ]
+  },
+  {
+    "nome": "Kanban",
+    "descricao": "Método visual para gerenciar o fluxo de trabalho, usando colunas (To Do, Doing, Done) para limitar o trabalho em progresso (WIP) e identificar gargalos.",
+    "data_criacao": "1940",
+    "link": "https://www.atlassian.com/agile/kanban",
+    "tags": [
+      "visualizacao",
+      "gestao_de_projetos",
+      "agile",
+      "fluxo_de_trabalho"
+    ]
+  },
+  {
+    "nome": "Eat The Frog (Coma o Sapo)",
+    "descricao": "Realizar a tarefa mais difícil, importante e desagradável logo pela manhã, garantindo que o resto do dia seja mais fácil.",
+    "data_criacao": "2001",
+    "link": "https://www.todoist.com/pt-BR/productivity-methods/eat-the-frog",
+    "tags": [
+      "priorizacao",
+      "procrastinacao",
+      "disciplina",
+      "manha"
+    ]
+  },
+  {
+    "nome": "MoSCoW Method",
+    "descricao": "Framework de priorização usado para definir requisitos ou tarefas em Must have, Should have, Could have e Won't have (para esta iteração).",
+    "data_criacao": "1994",
+    "link": "https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodologia_moscow.pdf",
+    "tags": [
+      "priorizacao",
+      "desenvolvimento",
+      "projetos",
+      "agile"
+    ]
+  },
+  {
+    "nome": "Retrieval Practice (Prática de Recuperação)",
+    "descricao": "Estratégia de estudo que envolve a recuperação ativa da informação da memória (teste ativo) em vez de apenas reler ou revisar passivamente.",
+    "data_criacao": "1909",
+    "link": "https://www.retrievalpractice.org/why-it-works",
+    "tags": [
+      "estudos",
+      "aprendizado",
+      "memoria",
+      "neurociencia"
+    ]
+  },
+  {
+    "nome": "Lei de Parkinson (Aplicada)",
+    "descricao": "Princípio que afirma que o trabalho se expande para preencher o tempo disponível. Utiliza-se a restrição de tempo artificialmente para forçar a eficiência.",
+    "data_criacao": "1955",
+    "link": "https://en.wikipedia.org/wiki/Parkinson%27s_law",
+    "tags": [
+      "eficiencia",
+      "gestao_de_tempo",
+      "restricao",
+      "foco"
+    ]
+  },
+  {
+    "nome": "OKR (Objectives and Key Results)",
+    "descricao": "Estrutura de definição de metas utilizada para conectar objetivos ambiciosos a resultados mensuráveis, geralmente revisados trimestralmente.",
+    "data_criacao": "1970",
+    "link": "https://www.alura.com.br/empresas/artigos/okr?utm_term=&utm_campaign=&utm_source=google&utm_medium=cpc&campaign_id=23211518344__&utm_id=23211518344__&hsa_acc=7964138385&hsa_cam=&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gad_campaignid=23211519973&gbraid=0AAAAADpqZIArYyiwmKFb8PlWi6yVCVutm&gclid=CjwKCAiA_orJBhBNEiwABkdmjFb4JhYAV7W7K5RJFRmR2hnG-5PZjH9K5ExNYRVrJiGH2W6K6EVavBoC_jQQAvD_BwE",
+    "tags": [
+      "metas",
+      "estrategia",
+      "planejamento",
+      "gestao",
+      "alta_performance"
+    ]
+  },
+  {
+    "nome": "The 2-Minute Rule",
+    "descricao": "Se uma tarefa puder ser concluída em menos de dois minutos, faça-a imediatamente para evitar que se acumule na lista de pendências e no loop de decisão.",
+    "data_criacao": "2001",
+    "link": "https://jamesclear.com/how-to-stop-procrastinating",
+    "tags": [
+      "produtividade",
+      "tarefas_rapidas",
+      "habitos",
+      "fluxo_de_trabalho"
+    ]
+  },
+  {
+    "nome": "Single Tasking (Tarefa Única)",
+    "descricao": "Focar intencionalmente em uma única tarefa até a conclusão, em oposição ao multitasking, para melhorar a qualidade e a velocidade da execução.",
+    "data_criacao": "2010",
+    "link": "https://www.verywellmind.com/single-tasking-for-productivity-and-stress-management-3144753",
+    "tags": [
+      "foco",
+      "concentracao",
+      "anti_multitasking",
+      "mente"
+    ]
+  },
+  {
+    "nome": "Mind Mapping (Mapa Mental)",
+    "descricao": "Técnica visual e hierárquica para organizar informações, ideias ou conceitos em torno de um tópico central, facilitando a memorização e o brainstorming.",
+    "data_criacao": "1970",
+    "link": "https://www.mindmapping.com/mind-map",
+    "tags": [
+      "estudos",
+      "organizacao_visual",
+      "brainstorming",
+      "aprendizado"
+    ]
+  },
+  {
+    "nome": "Kaizen",
+    "descricao": "Filosofia japonesa de melhoria contínua, focando em pequenas e consistentes mudanças incrementais (micro-hábitos) em vez de grandes revoluções.",
+    "data_criacao": "1986",
+    "link": "https://en.wikipedia.org/wiki/Kaizen",
+    "tags": [
+      "melhoria_continua",
+      "filosofia",
+      "desenvolvimento_pessoal",
+      "qualidade"
+    ]
+  },
+  {
+    "nome": "Deliberate Practice (Prática Deliberada)",
+    "descricao": "Estudo focado e estruturado, fora da zona de conforto, com feedback imediato e correção sistemática de erros para maximizar a aquisição de habilidades.",
+    "data_criacao": "1993",
+    "link": "https://fs.blog/deliberate-practice-guide/",
+    "tags": [
+      "aprendizado_acelerado",
+      "pratica",
+      "performance",
+      "feedback"
+    ]
+  },
+  {
+    "nome": "Flow State (Estado de Fluxo)",
+    "descricao": "Estado mental em que a pessoa está totalmente imersa, energizada e focada em uma atividade, levando a um desempenho máximo e alta satisfação.",
+    "data_criacao": "1975",
+    "link": "https://super.abril.com.br/comportamento/a-neurociencia-do-flow/",
+    "tags": [
+      "psicologia",
+      "foco_extremo",
+      "motivacao",
+      "performance"
+    ]
+  },
+  {
+    "nome": "The Seinfeld Strategy",
+    "descricao": "\"Don't Break The Chain.\" Usar um calendário para marcar um 'X' em cada dia que uma tarefa ou hábito essencial é realizado, focando em manter a sequência ininterrupta.",
+    "data_criacao": "1990",
+    "link": "https://jamesclear.com/stop-procrastinating-seinfeld-strategy",
+    "tags": [
+      "habitos",
+      "motivacao",
+      "consistencia",
+      "disciplina"
+    ]
+  },
+  {
+    "nome": "Batching (Agrupamento)",
+    "descricao": "Agrupar tarefas semelhantes (responder e-mails, fazer chamadas, planejar mídia social) e executá-las em um bloco de tempo dedicado para reduzir o custo da mudança de contexto.",
+    "data_criacao": "2007",
+    "link": "https://lattinegroup.com/tecnologia/batching-o-segredo-para-equipes-mais-produtivas-em-tarefas-repetitivas/",
+    "tags": [
+      "eficiencia",
+      "organizacao",
+      "context_switching",
+      "agrupamento"
+    ]
+  },
+  {
+    "nome": "RICE Score",
+    "descricao": "Framework de priorização de projetos usado para calcular qual iniciativa trará o maior retorno, ponderando Alcance (Reach), Impacto, Confiança e Esforço (Effort).",
+    "data_criacao": "2010",
+    "link": "https://www.productplan.com/glossary/rice-scoring-model/",
+    "tags": [
+      "priorizacao",
+      "gestao_de_produtos",
+      "metodologia",
+      "metricas"
+    ]
+  },
+  {
+    "nome": "MVP Principle (Mínimo Produto Viável)",
+    "descricao": "Aplicado à produtividade: em vez de buscar a perfeição, complete a versão mais básica e funcional de uma tarefa ou projeto o mais rápido possível para obter resultados iniciais.",
+    "data_criacao": "2001",
+    "link": "https://sebrae.com.br/sites/PortalSebrae/ufs/pe/artigos/conheca-o-minimo-produto-viavel-mvp-e-aplique-no-seu-negocio,199a9475fab9c610VgnVCM1000004c00210aRCRD",
+    "tags": [
+      "agile",
+      "iniciacao",
+      "iteracao",
+      "projetos"
+    ]
+  },
+  {
+    "nome": "Digital Minimalism",
+    "descricao": "Filosofia que defende o uso de ferramentas digitais intencionalmente e apenas para alto valor, minimizando o uso casual, viciante e distraído.",
+    "data_criacao": "2019",
+    "link": "https://calnewport.com/on-digital-minimalism/",
+    "tags": [
+      "foco",
+      "ferramentas_digitais",
+      "minimalismo",
+      "bem_estar"
+    ]
+  },
+  {
+    "nome": "Learning How To Learn (LHTL)",
+    "descricao": "Modelo mental que ensina os conceitos de aprendizado focado vs. difuso, a ilusão de competência e como o cérebro absorve novas informações de forma eficaz.",
+    "data_criacao": "2014",
+    "link": "https://learnhowtolearn.org/the-purpose-and-utility-of-learn-how-to-learn/",
+    "tags": [
+      "metacognicao",
+      "aprendizado",
+      "ciencia_cognitiva",
+      "estudos"
+    ]
+  },
+  {
+    "nome": "Autofocus",
+    "descricao": "Método de organização baseado em listas flexíveis e não datadas, onde o usuário escolhe a tarefa mais motivadora ou urgente do momento para combater a resistência.",
+    "data_criacao": "2003",
+    "link": "https://www.techtudo.com.br/noticias/2012/07/o-que-e-autofoco-e-como-usa-lo.ghtml",
+    "tags": [
+      "organizacao",
+      "flexibilidade",
+      "motivacao",
+      "lista_de_tarefas"
+    ]
+  },
+  {
+    "nome": "Timeboxing",
+    "descricao": "Alocação de um bloco de tempo fixo e máximo para uma atividade. Quando o tempo acaba, a atividade é interrompida, forçando o foco e prevenindo o perfeccionismo excessivo.",
+    "data_criacao": "1984",
+    "link": "https://en.wikipedia.org/wiki/Timeboxing",
+    "tags": [
+      "gestao_de_tempo",
+      "limitacao",
+      "agile",
+      "eficiencia"
+    ]
+  },
+  {
+    "nome": "Eisenhower Decision Principle (EDP)",
+    "descricao": "Princípio de tomada de decisão que orienta a delegação ou exclusão de tarefas. O foco é reservar o tempo e a energia para decisões que são importantes, mas não urgentes.",
+    "data_criacao": "1954",
+    "link": "https://www.eisenhower.me/eisenhower-matrix/",
+    "tags": [
+      "tomada_de_decisao",
+      "priorizacao",
+      "lideranca",
+      "eficiencia"
+    ]
+  },
+  {
+    "nome": "Habit Stacking (Empilhamento de Hábitos)",
+    "descricao": "Estratégia para construir novos hábitos ao anexá-los imediatamente a hábitos existentes, usando a estrutura \"Depois de [Hábito Atual], eu vou [Novo Hábito]\".",
+    "data_criacao": "2018",
+    "link": "https://jamesclear.com/habit-stacking",
+    "tags": [
+      "habitos",
+      "comportamento",
+      "rotina",
+      "micro_mudancas"
+    ]
+  },
+  {
+    "nome": "Active Recall (Rechamada Ativa)",
+    "descricao": "Processo de estudo onde o aluno força o cérebro a recuperar a informação, seja através de flashcards ou questões, maximizando a consolidação da memória.",
+    "data_criacao": "1909",
+    "link": "https://exame.com/carreira/guia-de-carreira/5-formas-de-aplicar-a-recordacao-ativa-para-estudar-melhor/",
+    "tags": [
+      "estudos",
+      "memoria",
+      "teste_ativo",
+      "aprendizado"
+    ]
+  }
+]
